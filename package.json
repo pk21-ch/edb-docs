@@ -1,0 +1,19 @@
+{
+  "name": "edb-docs",
+  "type": "module",
+  "private": true,
+  "version": "0.0.1",
+  "packageManager": "pnpm@11.0.9",
+  "scripts": {
+    "dev": "astro dev --host",
+    "start": "astro dev --host",
+    "build": "astro build",
+    "preview": "astro preview --host",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.39.2",
+    "astro": "^6.2.2",
+    "sharp": "^0.34.5"
+  }
+}
