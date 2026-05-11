@@ -1,5 +1,14 @@
 # edb-docs
 
+## 0.0.4
+
+### Patch Changes
+
+- f63ea47: Add ipa in english
+- 5a0986e: Publish to our own domain
+- 0ab5802: Set up structure
+- 4628895: Add handbook
+
 ## 0.0.3
 
 ### Patch Changes
