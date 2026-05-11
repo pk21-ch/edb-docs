@@ -6,8 +6,15 @@
 			"extensions": [
 				"astro-build.astro-vscode",
 				"unifiedjs.vscode-mdx",
-				"esbenp.prettier-vscode"
+				"esbenp.prettier-vscode",
+				"dbaeumer.vscode-eslint",
+				"eliostruyf.vscode-front-matter",
+				"streetsidesoftware.code-spell-checker",
+				"streetsidesoftware.code-spell-checker-swiss-german",
 			]
 		}
+	},
+	"containerEnv": {
+		"ASTRO_TELEMETRY_DISABLED": "1"
 	}
 }

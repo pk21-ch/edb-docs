@@ -12,7 +12,7 @@
   --sl-color-black: #121a1c;
 }
 
-:root[data-theme='light'] {
+:root[data-theme="light"] {
   --sl-color-accent-low: #b0deff;
   --sl-color-accent: #0073aa;
   --sl-color-accent-high: #003653;
@@ -27,32 +27,7 @@
   --sl-color-black: #ffffff;
 }
 
-[data-chapter-number] .sl-markdown-content {
-  counter-reset: sl-h2counter 0;
-}
-
-[data-chapter-number] .sl-markdown-content h2 {
-  counter-increment: sl-h2counter;
-  counter-reset: sl-h3counter 0;
-}
-
-[data-chapter-number] .sl-markdown-content h2::before {
-  content: counter(sl-chapter) "." counter(sl-h2counter) "\00a0";
-}
-
-[data-chapter-number] .sl-markdown-content h3 {
-  counter-increment: sl-h3counter;
-  counter-reset: sl-h4counter 0;
-}
-
-[data-chapter-number] .sl-markdown-content h3::before {
-  content: counter(sl-chapter) "." counter(sl-h2counter) "." counter(sl-h3counter) "\00a0";
-}
-
-[data-chapter-number] .sl-markdown-content h4 {
-  counter-increment: sl-h4counter;
-}
-
-[data-chapter-number] .sl-markdown-content h4::before {
-  content: counter(sl-chapter) "." counter(sl-h2counter) "." counter(sl-h3counter) "." counter(sl-h4counter) "\00a0";
+.sl-markdown-content .heading-number {
+  font-variant-numeric: tabular-nums;
+  color: var(--sl-color-gray-3);
 }

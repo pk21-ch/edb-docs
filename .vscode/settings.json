@@ -21,4 +21,5 @@
     "https://frontmatter.codes/frontmatter.schema.json": true,
     "https://schema.sparkium.org": true
   },
+  "cSpell.language": "en,de-ch",
 }

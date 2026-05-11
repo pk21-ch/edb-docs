@@ -1,3 +1,4 @@
+import type { Linter } from "eslint";
 import js from "@eslint/js";
 import typescriptParser from "@typescript-eslint/parser";
 import astroEslintParser from "astro-eslint-parser";
@@ -7,7 +8,7 @@ import tseslint from "typescript-eslint";
 import prettier from "eslint-config-prettier";
 import eslintPluginPrettierRecommended from "eslint-plugin-prettier/recommended";
 
-export default [
+const config: Linter.Config[] = [
   js.configs.recommended,
   ...eslintPluginAstro.configs["flat/recommended"],
   ...tseslint.configs.recommended,
@@ -62,11 +63,13 @@ export default [
   },
   {
     ignores: [
-      "dist",
-      "node_modules",
+      "**/dist",
+      "**/node_modules",
       ".github",
-      "types.generated.d.ts",
-      ".astro",
+      "**/types.generated.d.ts",
+      "**/.astro",
     ],
   },
 ];
+
+export default config;
