@@ -1,0 +1,58 @@
+:root {
+  --sl-color-accent-low: #00273d;
+  --sl-color-accent: #0071a7;
+  --sl-color-accent-high: #92d1fe;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #e7eff2;
+  --sl-color-gray-2: #bac4c8;
+  --sl-color-gray-3: #7b8f96;
+  --sl-color-gray-4: #495c62;
+  --sl-color-gray-5: #2a3b41;
+  --sl-color-gray-6: #182a2f;
+  --sl-color-black: #121a1c;
+}
+
+:root[data-theme='light'] {
+  --sl-color-accent-low: #b0deff;
+  --sl-color-accent: #0073aa;
+  --sl-color-accent-high: #003653;
+  --sl-color-white: #121a1c;
+  --sl-color-gray-1: #182a2f;
+  --sl-color-gray-2: #2a3b41;
+  --sl-color-gray-3: #495c62;
+  --sl-color-gray-4: #7b8f96;
+  --sl-color-gray-5: #bac4c8;
+  --sl-color-gray-6: #e7eff2;
+  --sl-color-gray-7: #f3f7f9;
+  --sl-color-black: #ffffff;
+}
+
+[data-chapter-number] .sl-markdown-content {
+  counter-reset: sl-h2counter 0;
+}
+
+[data-chapter-number] .sl-markdown-content h2 {
+  counter-increment: sl-h2counter;
+  counter-reset: sl-h3counter 0;
+}
+
+[data-chapter-number] .sl-markdown-content h2::before {
+  content: counter(sl-chapter) "." counter(sl-h2counter) "\00a0";
+}
+
+[data-chapter-number] .sl-markdown-content h3 {
+  counter-increment: sl-h3counter;
+  counter-reset: sl-h4counter 0;
+}
+
+[data-chapter-number] .sl-markdown-content h3::before {
+  content: counter(sl-chapter) "." counter(sl-h2counter) "." counter(sl-h3counter) "\00a0";
+}
+
+[data-chapter-number] .sl-markdown-content h4 {
+  counter-increment: sl-h4counter;
+}
+
+[data-chapter-number] .sl-markdown-content h4::before {
+  content: counter(sl-chapter) "." counter(sl-h2counter) "." counter(sl-h3counter) "." counter(sl-h4counter) "\00a0";
+}

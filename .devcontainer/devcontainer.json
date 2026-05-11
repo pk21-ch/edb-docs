@@ -1,4 +1,13 @@
 {
 	"name": "edb-docs",
-	"image": "mcr.microsoft.com/devcontainers/typescript-node:24-trixie"
+	"image": "mcr.microsoft.com/devcontainers/typescript-node:24-trixie",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"astro-build.astro-vscode",
+				"unifiedjs.vscode-mdx",
+				"esbenp.prettier-vscode"
+			]
+		}
+	}
 }
