@@ -62,13 +62,7 @@ const config: Linter.Config[] = [
     },
   },
   {
-    ignores: [
-      "**/dist",
-      "**/node_modules",
-      ".github",
-      "**/types.generated.d.ts",
-      "**/.astro",
-    ],
+    ignores: ["**/dist", "**/node_modules", ".github", "**/types.generated.d.ts", "**/.astro"],
   },
 ];
 
