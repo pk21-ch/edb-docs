@@ -9,7 +9,8 @@
     "start": "astro dev --host",
     "build": "astro build",
     "preview": "astro preview --host",
-    "astro": "astro"
+    "astro": "astro",
+    "check": "eslint . --max-warnings 0"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.39.2",
@@ -17,6 +18,16 @@
     "sharp": "^0.34.5"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.31.0"
+    "@changesets/cli": "^2.31.0",
+    "@eslint/js": "^10.0.1",
+    "@typescript-eslint/parser": "^8.59.2",
+    "astro-eslint-parser": "^1.4.0",
+    "eslint": "^10.3.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-astro": "^1.7.0",
+    "eslint-plugin-prettier": "^5.5.5",
+    "globals": "^17.6.0",
+    "jiti": "^2.7.0",
+    "typescript-eslint": "^8.59.2"
   }
 }
