@@ -11,17 +11,17 @@ Dieses Handbuch bietet eine Übersicht über die Anforderungen, Erwartungen und 
 Die Ausgangslage beschreibt die Bestimmungen, die gesetzlichen Grundlagen und die Rahmenbedingungen, unter denen die IPA durchgeführt wird. Die hierarchische Gliederung der einzelnen Dokumente ist grob wie folgt:
 
 1. Definition der IPA durch das SBFI
-1. Ausführungsbestimmungen der IPA durch ICT Berufsbildung Schweiz
-1. Rahmenbedingungen der IPA durch die kantonale Prüfungskommission
+2. Ausführungsbestimmungen der IPA durch ICT Berufsbildung Schweiz
+3. Rahmenbedingungen der IPA durch die kantonale Prüfungskommission
 
 ### Wichtigste Punkte aus der Orientierungshilfe des SBFI
 
 «Bei der IPA werden die praktischen Fähigkeiten im Berufsalltag im Rahmen eines Arbeitsauftrags bzw. einer zu erbringenden Dienstleistung geprüft. Die Prüfung beinhaltet möglichst alle Handlungskompetenzbereiche und umfasst die vier Positionen:
 
 1. Auftrag und Resultat der Arbeit
-1. Dokumentation
-1. Präsentation
-1. Fachgespräch
+2. Dokumentation
+3. Präsentation
+4. Fachgespräch
 
 Die kandidierende Person absolviert die IPA im Lehrbetrieb im Rahmen einer festgelegten Zeit und führt darüber eine Dokumentation. Sie präsentiert dem Expertenteam die Ausführung des Auftrags sowie das Ergebnis und beantwortet im nachfolgenden Fachgespräch auftragsbezogene ergänzende Fragen.»
 
@@ -54,14 +54,14 @@ Dieses Handbuch gilt für alle EDB-Lernenden im Kanton Zürich. Es soll den Lern
 Bis zum Start der IPA müssen die folgenden Schritte durchlaufen werden:
 
 1. Aufgabenstellung finden
-1. Grobbeschrieb (PA-Planung) erstellen und einreichen
-1. Detaillierte Aufgabenstellung erstellen und einreichen
+2. Grobbeschrieb (PA-Planung) erstellen und einreichen
+3. Detaillierte Aufgabenstellung erstellen und einreichen
 
 ### IPA-Aufgabenstellung
 
 **In einem ersten Schritt überlegen sich die vorgesetzte Fachkraft gemeinsam mit der Kandidatin oder dem Kandidaten, welches Projekt oder welches Teilprojekt als IPA durchgeführt werden kann.** Die IPA soll die Fähigkeiten prüfen und daher so gewählt sein, dass sie den Stärken der Kandidatin oder des Kandidaten entsprechen. Dabei ist es wichtig, klar messbare und machbare Lieferobjekte zu fordern.
 
-Die IPA ist in erster Linie eine **konzeptionelle, planerische und koordinative Arbeit**. Der Kandidat oder die Kandidatin verantwortet die Analyse, Strukturierung und Planung sowie die Definition von Schnittstellen zwischen Prozessen, Daten, Systemen und Beteiligten. Die eigentliche **Produktumsetzung oder technische Implementierung **ist in der Regel nicht Bestandteil der IPA.
+Die IPA ist in erster Linie eine **konzeptionelle, planerische und koordinative Arbeit**. Der Kandidat oder die Kandidatin verantwortet die Analyse, Strukturierung und Planung sowie die Definition von Schnittstellen zwischen Prozessen, Daten, Systemen und Beteiligten. Die eigentliche **Produktumsetzung oder technische Implementierung** ist in der Regel nicht Bestandteil der IPA.
 
 Im Rahmen der IPA werden **Konzepte** erarbeitet, welche als Grundlage für die spätere Realisierung digitaler Lösungen im Business-Kontext dienen. Die Ausgestaltung erfolgt projektabhängig (z. B. **Konzeptpapiere, Planungsdokumente, Anleitungen oder E-Learning-Konzepte**) und muss für die definierte Zielgruppe **verständlich, nachvollziehbar und praxistauglich sein.**
 
@@ -73,7 +73,7 @@ Die Dokumentation muss es externen Fachpersonen ermöglichen, Vorgehen, Zielerre
 
 ### Grobbeschrieb (PA-Planung)
 
-Die vorgesetzte Fachkraft (VF) ist dafür zuständig, den **Grobbeschrieb** (Prozessschritt PA-Planung) **bis spätestens 31.12.2026 in PkOrg einzureichen. **
+Die vorgesetzte Fachkraft (VF) ist dafür zuständig, den **Grobbeschrieb** (Prozessschritt PA-Planung) **bis spätestens 31.12.2026 in PkOrg einzureichen.**
 
 Als Grobeingabe gilt eine Ausgangslage, eine Problemstellung, das gewünschte Resultat und das Arbeitsgebiet. Es sollen ungefähr 5 Sätze geschrieben werden. In diesem Prozessschritt wird auch der Startblock gewählt. Das System schliesst automatisch jeden Startblock, dessen Kontingent ausgeschöpft ist. **Ist aufgrund der Aufgabenstellung ein bestimmter Startblock nötig für die Durchführung, sollte der Grobbeschrieb (PA-Planung) möglichst schnell erfasst und eingereicht werden.** Die vorgesetzte Fachkraft muss 4 Wochen vor, während und ca. 3 Wochen nach der IPA für die Validierungsphase, die IPA und die Notenfindung anwesend sein.
 
@@ -108,7 +108,7 @@ Der Block «Detaillierte Aufgabenstellung» ist das Kernstück der Beschreibung.
 
 **Wahl- und individuelle Beurteilungskriterien**
 
-Für die IPA sind **zwei Wahlkriterien **aus dem Katalog auszuwählen, welche individuell, aber nur minimal anpassbar sind. Titel und Sinn dürfen nicht verändert werden. Diese Wahl erfolgt unabhängig von der Zugehörigkeit zu den Handlungs- und Kompetenzbereichen (HKB) und dient der gezielten Spezifizierung der Aufgabenstellung aus dem Detailbeschrieb.
+Für die IPA sind **zwei Wahlkriterien**aus dem Katalog auszuwählen, welche individuell, aber nur minimal anpassbar sind. Titel und Sinn dürfen nicht verändert werden. Diese Wahl erfolgt unabhängig von der Zugehörigkeit zu den Handlungs- und Kompetenzbereichen (HKB) und dient der gezielten Spezifizierung der Aufgabenstellung aus dem Detailbeschrieb.
 
 Zusätzlich sind **zwei individuelle Beurteilungskriterien** zu beschreiben. Die Kriterien werden eigenständig formuliert und erlauben die vertiefte und erweiterte Beurteilung eines Lieferobjektes aus der Aufgabenstellung.
 
@@ -161,7 +161,7 @@ Das Valid-Team achtet insbesondere darauf, dass:
 – die Kandidatin oder der Kandidat die nötigen Vorkenntnisse mitbringt
 – das Erfüllen der Lieferobjekte objektiv bewertbar ist
 
-**Das Valid-Team ist auf konstruktive Mitarbeit und das Einhalten der Abgabefristen angewiesen, damit der Start der IPA nicht gefährdet wird. **Wir schätzen es zudem, wenn die detaillierte Aufgabenstellung in logische Abschnitte strukturiert und für externe Personen verständlich formuliert wird (interne Begrifflichkeiten vermeiden oder erklären).
+**Das Valid-Team ist auf konstruktive Mitarbeit und das Einhalten der Abgabefristen angewiesen, damit der Start der IPA nicht gefährdet wird.** Wir schätzen es zudem, wenn die detaillierte Aufgabenstellung in logische Abschnitte strukturiert und für externe Personen verständlich formuliert wird (interne Begrifflichkeiten vermeiden oder erklären).
 
 Mit der IPA darf erst nach der formellen Freigabe (Nachricht durch Validexpertin oder Validexperte) und erst am deklarierten Starttermin begonnen werden. Ziel ist es, die detaillierte Aufgabenstellung **spätestens 3 Tage vor Start der IPA freigeben** zu können. Zieht sich die Validierung durch mangelnde Mitarbeit zu lange hin, kann dies eine Verschiebung der IPA zur Folge haben.
 
@@ -194,7 +194,7 @@ Im Arbeitsjournal nicht deklarierte Fremdleistung, Vorleistung sowie Hilfestellu
 
 ### Erstbesuch
 
-Die Kandidatin oder der Kandidat **koordiniert selbstständig den Erstbesuch** sowie weitere Termine mit der Prüfungsexpertin oder dem Prüfungsexperten zu einem passenden Zeitpunkt. Der Erstbesuch hat **innerhalb von 8–24 Stunden **nach Beginn der IPA zu erfolgen, um die Aufgabenstellung, Planung und den Verlauf sicher zu stellen.
+Die Kandidatin oder der Kandidat **koordiniert selbstständig den Erstbesuch** sowie weitere Termine mit der Prüfungsexpertin oder dem Prüfungsexperten zu einem passenden Zeitpunkt. Der Erstbesuch hat **innerhalb von 8–24 Stunden** nach Beginn der IPA zu erfolgen, um die Aufgabenstellung, Planung und den Verlauf sicher zu stellen.
 
 Beim Erstbesuch werden folgende Punkte überprüft:
 
@@ -217,7 +217,7 @@ Erwartet wird eine grobe Planung der IPA-Tage sowie die dokumentierte Wahl einer
 
 ### Zwischenbesuch
 
-Die Kandidatin oder der Kandidat koordiniert selbstständig den **Zwischenbesuch **mit der Prüfungsexpertin oder dem Prüfungsexperten sowie allen relevanten Personen zu einem passenden Termin. Der Zwischenbesuch dient der Überprüfung des Arbeitsvorgehens und der Bewertung relevanter Kriterien. Dieser kann nach Absprache mit dem HEX, auch Online durchgeführt werden.
+Die Kandidatin oder der Kandidat koordiniert selbstständig den **Zwischenbesuch** mit der Prüfungsexpertin oder dem Prüfungsexperten sowie allen relevanten Personen zu einem passenden Termin. Der Zwischenbesuch dient der Überprüfung des Arbeitsvorgehens und der Bewertung relevanter Kriterien. Dieser kann nach Absprache mit dem HEX, auch Online durchgeführt werden.
 
 Es wird empfohlen, den Zwischenbesuch **bis spätestens am Tag 9** durchzuführen. Die Hauptexpertin bzw. der Hauptexperte beurteilt beim Erstbesuch die Eignung des gewählten Termins und nimmt bei Bedarf Anpassungen vor.
 
