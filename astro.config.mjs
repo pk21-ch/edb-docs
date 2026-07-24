@@ -9,7 +9,7 @@ export default defineConfig({
   markdown: {
     processor: unified({
       rehypePlugins: [rehypeNumberHeadings],
-    })
+    }),
   },
   integrations: [
     starlight({
