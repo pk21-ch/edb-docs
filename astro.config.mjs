@@ -2,11 +2,14 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import { rehypeNumberHeadings } from "./src/utils/rehypeNumberHeadings.ts";
+import { unified } from "@astrojs/markdown-remark";
 
 // https://astro.build/config
 export default defineConfig({
   markdown: {
-    rehypePlugins: [rehypeNumberHeadings],
+    processor: unified({
+      rehypePlugins: [rehypeNumberHeadings],
+    })
   },
   integrations: [
     starlight({
