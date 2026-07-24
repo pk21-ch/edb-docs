@@ -65,7 +65,7 @@ Die IPA ist in erster Linie eine **konzeptionelle, planerische und koordinative 
 
 Im Rahmen der IPA werden **Konzepte** erarbeitet, welche als Grundlage für die spätere Realisierung digitaler Lösungen im Business-Kontext dienen. Die Ausgestaltung erfolgt projektabhängig (z. B. **Konzeptpapiere, Planungsdokumente, Anleitungen oder E-Learning-Konzepte**) und muss für die definierte Zielgruppe **verständlich, nachvollziehbar und praxistauglich sein.**
 
-Die Konzepte beschreiben **Ziel, Zweck und Einsatzkontext** der Lösung und definieren relevante **Schnittstellen** fachlich korrekt. Sie sind so auszuarbeiten, dass eine spätere Umsetzung durch Dritte (z.B. Softwareentwicklung, etc.) möglich ist.
+Die Konzepte beschreiben **Ziel, Zweck und Einsatzkontext** der Lösung und definieren relevante **Schnittstellen** fachlich korrekt. Sie sind so auszuarbeiten, dass eine spätere Umsetzung durch Dritte (z. B. Softwareentwicklung, etc.) möglich ist.
 
 Die Qualität der IPA-Aufgabenstellung zeigt sich in einer **klaren Struktur**, einer **logischen Herleitung** sowie einer **verständlichen Darstellung**. Lieferobjekte und Anforderungen müssen messbar formuliert sein.
 
@@ -104,7 +104,7 @@ Mit der Beschreibung der Ausgangslage wird das gewünschte Projekt aufgezeigt. E
 
 **Detaillierte Aufgabenstellung**
 
-Der Block «Detaillierte Aufgabenstellung» ist das Kernstück der Beschreibung. In die detaillierte Aufgabenstellung gehören folgende Informationen: konkrete Lieferobjekte, grobe Aufgabenpakete mit zugeordneten HKB und messbare Formatvorgaben (z.B. Umfang, Struktur, Medien, Form, Zugänglichkeit, etc.). Je klarer dieser Text formuliert ist, umso schneller geht die Validierung. Der Detaillierungsgrad soll einem Briefing an einen externen Dienstleister/Agentur entsprechen, die die Firma nicht kennen und muss von einer externen Fachperson bewertbar sein. Anhand der Definition der Lieferobjekte wird die Arbeit von der VF und den PEX bewertet. Besonderes Augenmerk ist auf die Messbarkeit der Ziele zu legen.
+Der Block «Detaillierte Aufgabenstellung» ist das Kernstück der Beschreibung. In die detaillierte Aufgabenstellung gehören folgende Informationen: konkrete Lieferobjekte, grobe Aufgabenpakete mit zugeordneten HKB und messbare Formatvorgaben (z. B. Umfang, Struktur, Medien, Form, Zugänglichkeit, etc.). Je klarer dieser Text formuliert ist, umso schneller geht die Validierung. Der Detaillierungsgrad soll einem Briefing an einen externen Dienstleister/Agentur entsprechen, die die Firma nicht kennen und muss von einer externen Fachperson bewertbar sein. Anhand der Definition der Lieferobjekte wird die Arbeit von der VF und den PEX bewertet. Besonderes Augenmerk ist auf die Messbarkeit der Ziele zu legen.
 
 **Wahl- und individuelle Beurteilungskriterien**
 
@@ -121,6 +121,10 @@ In diesem Feld sollen die Vorkenntnisse im gewählten Arbeitsbereich der KAND ku
 **Vorarbeiten und Abgrenzung**
 
 Ist die IPA ein Teil eines grösseren Projekts, müssen die Vor- und Nacharbeiten in diesem Feld aufgeführt und beschrieben werden. Beispielsweise können Systeme recherchiert, Daten gesammelt, Konzeptvorlagen erstellt und bestehende Prozesse im Vorfeld analysiert werden. **Vorarbeiten werden bei der Bewertung nicht berücksichtigt.** Alle zur IPA-Aufgabenstellung gehörenden Aufgaben dürfen erst beim Start der IPA-Zeit angefangen werden. Eine Widerhandlung führt zur Note 1.0. Nacharbeiten können die Implementierung von Softwarelösungen, die Publikation digitaler Inhalte oder die technische Umsetzung sein.
+
+**Mittel und Methoden**
+
+In diesem Feld werden die durch den Betrieb bereitgestellten und vorgegebenen Mittel und Methoden beschrieben. Dazu gehören beispielsweise Software die bereits im Betrieb eingesetzt wird, vorgegebene Prozesse, bestehende Datenbanken, Schnittstellen, Vorlagen oder andere Hilfsmittel. Sollen die KAND während der IPA neue Mittel und Methoden evaluieren, sind die Anforderungen in der detaillierten Aufgabenstellung zu beschreiben, jedoch nicht die Lösung in diesem Feld vorwegzunehmen.
 
 **Neue Lerninhalte**
 
@@ -144,9 +148,13 @@ Bei der fragmentierten Variante werden lediglich der **Start- und Endtermin** 
 
 In diesem Feld können Bemerkungen wie beispielsweise Einschränkungen in der Verfügbarkeit bei Teilzeit-Pensum vermerkt werden.
 
-**Grober Soll-Zeitplan**
+**Grober Soll-Zeitplan / IPA Tage**
 
 Die vorgesetzte Fachkraft erfasst hier eine Zeitschätzung, die eine Stückelung von halben, ganzen Tagen oder anderen ähnlichen sinnvollen Einheiten aufweist. Die Arbeitspakete enthalten die erwarteten Arbeitsschritte und zeigen die Abhängigkeiten auf. Die detaillierte Zeitplanung ist Aufgabe der KAND während der IPA. In der Praxis kann die Zeit von der Planung abweichen. Der grobe Soll-Zeitplan dient lediglich dem Valid-Team zur Einschätzung, ob der Umfang der IPA-Aufgabenstellung realistisch ist.
+
+**Schätzung der Arbeitspakete**
+
+Für die Validierung ist es wichtig, dass die vorgesehenen Arbeitspakete durch die VF in **Stunden** geschätzt werden. Die Summe der Arbeitspakete muss 80 Stunden ergeben. Diese Schätzung darf nicht von den KAND vorgenommen oder bekannt gegeben werden. Sie kann nicht von den KAND eingesehen werden.
 
 ### Validierung
 
@@ -170,7 +178,7 @@ Mit der IPA darf erst nach der formellen Freigabe (Nachricht durch Validexpertin
 
 ### Allgemeines
 
-Es wird empfohlen, das **[Bewertungsraster](https://www.ict-berufsbildung.ch/resources/EDB_IPA_Bewertungsformular_Berechnung_QV2027_DE.xlsx) herunterzuladen** und vor der IPA zu studieren. Aus den Beurteilungskriterien ergeben sich teilweise auch Arbeiten, welche die Kandidatinnen und Kandidaten zu erfüllen haben, obwohl sie nicht in den Zielen der detaillierten Aufgabenstellung enthalten sind. Dies sind z.B. die Ideenfindung und Variantenentwicklung, Reflexion oder Qualitätssicherung.
+Es wird empfohlen, das **[Bewertungsraster](https://www.ict-berufsbildung.ch/resources/EDB_IPA_Bewertungsformular_Berechnung_QV2027_DE.xlsx) herunterzuladen** und vor der IPA zu studieren. Aus den Beurteilungskriterien ergeben sich teilweise auch Arbeiten, welche die Kandidatinnen und Kandidaten zu erfüllen haben, obwohl sie nicht in den Zielen der detaillierten Aufgabenstellung enthalten sind. Dies sind z. B. die Ideenfindung und Variantenentwicklung, Reflexion oder Qualitätssicherung.
 
 Die Prüfungsexpertinnen und Prüfungsexperten dürfen keine eigenen Kriterien hinzufügen. Sie dürfen jedoch definieren, welche **persönlichen Erwartungen sie an ein Kriterium stellen**, wenn es nicht dem Bewertungsraster oder dem IPA-Leitfaden widerspricht.
 
@@ -186,15 +194,21 @@ Erkrankt der oder die KAND während der IPA, ist das Expertenteam umgehend zu in
 
 ### Quellen, Plagiat, Fremdleistung
 
-**Die IPA muss eine Eigenleistung sein.** Sämtliche fremde Quellen, ob aus dem Lehrbetrieb oder externen Quellen und Hilfestellungen (z. B. nicht selbst erstellte Diagramme, KI-Tools, ...) sind zu kennzeichnen. Die Übernahme von Programmcode, Abbildungen, Illustrationen, Filmausschnitten aus **eigenen Vorgängerprojekten** ist ebenfalls zwingend zu deklarieren.
+**Die IPA muss eine Eigenleistung sein.** Sämtliche fremde Quellen, ob aus dem Lehrbetrieb oder externen Quellen und Hilfestellungen (z. B. nicht selbst erstellte Diagramme, KI-Tools, etc.) sind zu kennzeichnen. Die Übernahme von Programmcode, Abbildungen, Illustrationen, Filmausschnitten aus **eigenen Vorgängerprojekten** ist ebenfalls zwingend zu deklarieren.
 
 Die Verwendung von **KI-Tools** ist erlaubt. Die entsprechende Quelle und der Prompt müssen jedoch im Anhang hinterlegt werden. Es ist verboten, ganze Abschnitte der Dokumentation durch eine künstliche Intelligenz verfassen zu lassen. **Die erhaltenen Informationen müssen stets selbst interpretiert, kontrolliert und umformuliert werden.**
 
 Im Arbeitsjournal nicht deklarierte Fremdleistung, Vorleistung sowie Hilfestellung wird als Plagiat betrachtet und kann dazu führen, dass einzelne Teile der IPA nicht bewertet werden oder die gesamte IPA mit der Note 1.0 bewertet wird.
 
-### Erstbesuch
+### Besuche
 
-Die Kandidatin oder der Kandidat **koordiniert selbstständig den Erstbesuch** sowie weitere Termine mit der Prüfungsexpertin oder dem Prüfungsexperten zu einem passenden Zeitpunkt. Der Erstbesuch hat **innerhalb von 8–24 Stunden** nach Beginn der IPA zu erfolgen, um die Aufgabenstellung, Planung und den Verlauf sicher zu stellen.
+Die KAND koordinieren selbstständig die Termine der Besuche mit den PEX und weiteren relevanten Personen zu einem passenden Zeitpunkt. Die Art und Form der Besuche (z. B. Meeting, Workshop, StandUp, Weekly, etc.) wird durch die KAND in Absprache mit den PEX festgelegt.
+
+Die KAND und die PEX erfassen je ein Protokoll der Besuche. Die KAND legen das Protokoll im Arbeitsjournal ab. Die PEX tragen das Protokoll in PkOrg ein. Die Besuchstermine fliessen in die Bewertung der IPA ein.
+
+#### Erstbesuch
+
+Der Erstbesuch hat **innerhalb von 8–24 Stunden** nach Beginn der IPA zu erfolgen, um die Aufgabenstellung, Planung und den Verlauf sicher zu stellen.
 
 Beim Erstbesuch werden folgende Punkte überprüft:
 
@@ -215,9 +229,9 @@ Erwartet wird eine grobe Planung der IPA-Tage sowie die dokumentierte Wahl einer
 
 **Hinweis:** Werden im Verlauf der IPA unvorhersehbare Abweichungen von der Planung festgestellt, können diese im Arbeitsjournal festgehalten werden, ohne dass dies zu Abzügen in der Bewertung führt.
 
-### Zwischenbesuch
+#### Zwischenbesuch
 
-Die Kandidatin oder der Kandidat koordiniert selbstständig den **Zwischenbesuch** mit der Prüfungsexpertin oder dem Prüfungsexperten sowie allen relevanten Personen zu einem passenden Termin. Der Zwischenbesuch dient der Überprüfung des Arbeitsvorgehens und der Bewertung relevanter Kriterien. Dieser kann nach Absprache mit dem HEX, auch Online durchgeführt werden.
+Der Zwischenbesuch dient der Überprüfung des Arbeitsvorgehens und der Bewertung relevanter Kriterien. Dieser kann nach Absprache mit dem HEX, auch Online durchgeführt werden.
 
 Es wird empfohlen, den Zwischenbesuch **bis spätestens am Tag 9** durchzuführen. Die Hauptexpertin bzw. der Hauptexperte beurteilt beim Erstbesuch die Eignung des gewählten Termins und nimmt bei Bedarf Anpassungen vor.
 
@@ -244,7 +258,7 @@ B03 bedeutet nicht, dass nach dem Zwischenbesuch keine aktive Arbeit mehr erford
 
 Die Dokumentation der IPA im Beruf EDB dient dazu, den Arbeitsprozess, die angewandten Methoden und die erzielten Ergebnisse nachvollziehbar darzustellen. Sie zeigt den Bewertenden auf, wie die konzeptionelle Arbeit umgesetzt wurde, welche Entscheidungen getroffen und welche Alternativen geprüft wurden.
 
-Es wird **keine umfangreiche Fliesstextdokumentation** erwartet. Die Dokumentation kann in unterschiedlichen Formen erfolgen, beispielsweise als strukturierter Text, Visualisierung oder digitale Arbeitsfläche (z.B. Miroboard, Kanban Board, etc.). Die gewählte Form muss jedoch **geeignet sein, die erbrachte Leistung nachvollziehbar darzustellen**.
+Es wird **keine umfangreiche Fliesstextdokumentation** erwartet. Die Dokumentation kann in unterschiedlichen Formen erfolgen, beispielsweise als strukturierter Text, Visualisierung oder digitale Arbeitsfläche (z. B. Miroboard, Kanban Board, etc.). Die gewählte Form muss jedoch **geeignet sein, die erbrachte Leistung nachvollziehbar darzustellen**.
 
 Die Kandidatin oder der Kandidat dokumentiert fortlaufend:
 
@@ -322,7 +336,7 @@ Nur Risiken, die den Projektverlauf, die Zielerreichung oder die Qualität der L
 Im Kriterium C04 wird erwartet, dass Datenschutzanforderungen erkannt, berücksichtigt und umgesetzt werden.
 
 - Es ist nicht erforderlich, rechtliche Grundlagen ausführlich zu beschreiben.
-- Relevante Vorgaben (z.B. DSGVO) müssen genannt und verlinkt werden.
+- Relevante Vorgaben (z. B. DSGVO) müssen genannt und verlinkt werden.
 - Es muss ersichtlich sein, dass Datenschutzprinzipien verstanden und praktisch angewendet wurden.
 
 ### Abgaberegel der IPA
@@ -351,7 +365,7 @@ Unmittelbar nach der Präsentation findet das Fachgespräch statt. Das Expertent
 
 Das Expertenteam erarbeitet einen **Fragenkatalog mit vier Themenkomplexen** und stimmt sich im Vorfeld gemeinsam ab. Das Gespräch findet in Mundart statt und dauert circa 30 bis maximal 40 Minuten.
 
-Das Fachgespräch darf nicht mit einer Berufskundeprüfung verwechselt werden. **Natürlich ist auch theoretisches Wissen gefragt, jedoch im Zusammenhang mit der IPA.** Das Gespräch soll auch spontane Fragen zulassen, z.B. wenn etwas unklar geblieben oder ein neuer Aspekt aufgetaucht ist. Die Fragen werden bewusst offen gestellt, damit die Kandidatin oder der Kandidat ihr Wissen beweisen kann.
+Das Fachgespräch darf nicht mit einer Berufskundeprüfung verwechselt werden. **Natürlich ist auch theoretisches Wissen gefragt, jedoch im Zusammenhang mit der IPA.** Das Gespräch soll auch spontane Fragen zulassen, z. B. wenn etwas unklar geblieben oder ein neuer Aspekt aufgetaucht ist. Die Fragen werden bewusst offen gestellt, damit die Kandidatin oder der Kandidat ihr Wissen beweisen kann.
 
 ## Bewertung
 
