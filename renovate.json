@@ -3,6 +3,7 @@
   "extends": [
     "config:base"
   ],
+  "minimumReleaseAge": "1440 minutes",
   "packageRules": [
     {
       "matchPackagePatterns": [
