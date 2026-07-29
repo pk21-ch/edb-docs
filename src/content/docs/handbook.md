@@ -124,7 +124,7 @@ Ist die IPA ein Teil eines grösseren Projekts, müssen die Vor- und Nacharbeite
 
 **Mittel und Methoden**
 
-In diesem Feld werden die durch den Betrieb bereitgestellten und vorgegebenen Mittel und Methoden beschrieben. Dazu gehören beispielsweise Software die bereits im Betrieb eingesetzt wird, vorgegebene Prozesse, bestehende Datenbanken, Schnittstellen, Vorlagen oder andere Hilfsmittel. Sollen die KAND während der IPA neue Mittel und Methoden evaluieren, sind die Anforderungen in der detaillierten Aufgabenstellung zu beschreiben, jedoch nicht die Lösung in diesem Feld vorwegzunehmen.
+In diesem Feld werden die durch den Betrieb bereitgestellten und vorgegebenen Mittel und Methoden beschrieben. Dazu gehören beispielsweise Software, die bereits im Betrieb eingesetzt wird, vorgegebene Prozesse, bestehende Datenbanken, Schnittstellen, Vorlagen oder andere Hilfsmittel. Sollen die KAND während der IPA neue Mittel und Methoden evaluieren, sind die entsprechenden Anforderungen in der detaillierten Aufgabenstellung zu beschreiben, **ohne** die Lösung in diesem Feld vorwegzunehmen.
 
 **Neue Lerninhalte**
 
