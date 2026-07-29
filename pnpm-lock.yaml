@@ -10,13 +10,13 @@ importers:
     dependencies:
       '@astrojs/markdown-remark':
         specifier: ^7.2.1
-        version: 7.2.1
+        version: 7.2.2
       '@astrojs/starlight':
         specifier: ^0.41.5
-        version: 0.41.5(@astrojs/markdown-remark@7.2.1)(astro@7.1.4(@astrojs/markdown-remark@7.2.1)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0))(typescript@6.0.3)
+        version: 0.41.5(@astrojs/markdown-remark@7.2.2)(astro@7.1.5(@astrojs/markdown-remark@7.2.2)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0))(typescript@6.0.3)
       astro:
         specifier: ^7.1.4
-        version: 7.1.4(@astrojs/markdown-remark@7.2.1)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0)
+        version: 7.1.5(@astrojs/markdown-remark@7.2.2)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0)
       sharp:
         specifier: ^0.35.3
         version: 0.35.3(@types/node@26.1.2)
@@ -137,11 +137,20 @@ packages:
   '@astrojs/internal-helpers@0.10.1':
     resolution: {integrity: sha512-5phcroT/vmOOrYuuAxtkbPixy5hePtlz9i8K4OeDv3dNK6/UQRuXPOSRTxIOBbUY5Sonw2UaxjbuVc43Mcir6Q==}
 
+  '@astrojs/internal-helpers@0.10.2':
+    resolution: {integrity: sha512-yt7fMgPYqSM4Tmr+taTW6Per+hjJ8Pk6lA1PAcDyqzOt8HzJ6Kje5WzCxA2Sd+9wsUW7uhkLeoTMK0cXPwH9rQ==}
+
   '@astrojs/markdown-remark@7.2.1':
     resolution: {integrity: sha512-jPVNIqTvk+yKviikszv/Y1U4jGUSKpp/Nw48QZV4qjWgp70j4Lkq3lhSDRbWwCfgKvEyO9GHuVbV1dM2WYXy1w==}
 
+  '@astrojs/markdown-remark@7.2.2':
+    resolution: {integrity: sha512-FGfmK84zSNcrsBd0dl1gXE9JvZYElp8EXQa2jpHVAxG4deGKAp43wspxFupjADJX7MSsMRHwYCnfT6EyVmgeFQ==}
+
   '@astrojs/markdown-satteri@0.3.4':
     resolution: {integrity: sha512-6Lvt/bQZEBW+zzdhPblvfZEy5PGEYJaUsUqaCgwHeRPxZJL1gc9I+DRLKWJjjYTWDzVUTzXlMq4WwSK+X34CVw==}
+
+  '@astrojs/markdown-satteri@0.3.5':
+    resolution: {integrity: sha512-CvWVEFAbay7YO+i9SaqDJubipA5ckiVB89QWoMJ5XC0m5CtFg8JwZ7Kau6X9sYY7FZURH0w2l03ISH2jOS/RDQ==}
 
   '@astrojs/mdx@7.0.4':
     resolution: {integrity: sha512-fH4ouVZCgmLOH5z+GYnJMDOSUohn9U2W3p79Ck7PDK3EdGpe/crZAtT6Sp1ziEurj5NSQh7TxP8MSR4NOcC6fQ==}
@@ -1266,12 +1275,12 @@ packages:
     peerDependencies:
       astro: ^4.0.0-beta || ^5.0.0-beta || ^3.3.0 || ^6.0.0-beta || ^7.0.0
 
-  astro@7.1.4:
-    resolution: {integrity: sha512-e0gkBReJECAZuuTgpEB5JMUc6J4mM6boD6wuVE1pBf/fMywG47f8qm9XQoA6kZB1RWHiHmUlLuQ2jd9Q5+72HQ==}
+  astro@7.1.5:
+    resolution: {integrity: sha512-3Yi3cPzVkudPcwStEaNzglu3hM2tjZ3NyhG8shUTMpcSX+8clQta23dMz41I44fiaMCp37H9K/5P2AudN6YKwg==}
     engines: {node: '>=22.12.0', npm: '>=9.6.5', pnpm: '>=7.1.0'}
     hasBin: true
     peerDependencies:
-      '@astrojs/markdown-remark': 7.2.1
+      '@astrojs/markdown-remark': 7.2.2
     peerDependenciesMeta:
       '@astrojs/markdown-remark':
         optional: true
@@ -2229,8 +2238,8 @@ packages:
   node-fetch-native@1.6.7:
     resolution: {integrity: sha512-g9yhqoedzIUm0nTnTqAQvueMPVOuIY16bqgAJJC8XOOubYFNwz6IER9qs0Gq2Xd0+CecCKFjtdDTMA4u4xG06Q==}
 
-  node-mock-http@1.0.4:
-    resolution: {integrity: sha512-8DY+kFsDkNXy1sJglUfuODx1/opAGJGyrTuFqEoN90oRc2Vk0ZbD4K2qmKXBBEhZQzdKHIVfEJpDU8Ak2NJEvQ==}
+  node-mock-http@1.0.5:
+    resolution: {integrity: sha512-KQyt/wLjG3TAc7DOUhpqWzgd4ERxR80JOlTK5VE5R1S12IaPVN5qkj4klBce9HPG1Njuup4Sb5bljaT34lIyjw==}
 
   normalize-path@3.0.0:
     resolution: {integrity: sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==}
@@ -2979,9 +2988,42 @@ snapshots:
       smol-toml: 1.7.1
       unified: 11.0.5
 
+  '@astrojs/internal-helpers@0.10.2':
+    dependencies:
+      '@types/hast': 3.0.5
+      '@types/mdast': 4.0.4
+      js-yaml: 4.3.0
+      picomatch: 4.0.5
+      retext-smartypants: 6.2.0
+      shiki: 4.3.1
+      smol-toml: 1.7.1
+      unified: 11.0.5
+
   '@astrojs/markdown-remark@7.2.1':
     dependencies:
       '@astrojs/internal-helpers': 0.10.1
+      '@astrojs/prism': 4.0.2
+      github-slugger: 2.0.0
+      hast-util-from-html: 2.0.3
+      hast-util-to-text: 4.0.2
+      mdast-util-definitions: 6.0.0
+      rehype-raw: 7.0.0
+      rehype-stringify: 10.0.1
+      remark-gfm: 4.0.1
+      remark-parse: 11.0.0
+      remark-rehype: 11.1.2
+      remark-smartypants: 3.0.3
+      unified: 11.0.5
+      unist-util-remove-position: 5.0.0
+      unist-util-visit: 5.1.0
+      unist-util-visit-parents: 6.0.2
+      vfile: 6.0.3
+    transitivePeerDependencies:
+      - supports-color
+
+  '@astrojs/markdown-remark@7.2.2':
+    dependencies:
+      '@astrojs/internal-helpers': 0.10.2
       '@astrojs/prism': 4.0.2
       github-slugger: 2.0.0
       hast-util-from-html: 2.0.3
@@ -3009,13 +3051,21 @@ snapshots:
       hast-util-from-html: 2.0.3
       satteri: 0.9.5
 
-  '@astrojs/mdx@7.0.4(@astrojs/markdown-satteri@0.3.4)(astro@7.1.4(@astrojs/markdown-remark@7.2.1)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0))':
+  '@astrojs/markdown-satteri@0.3.5':
+    dependencies:
+      '@astrojs/internal-helpers': 0.10.2
+      '@astrojs/prism': 4.0.2
+      github-slugger: 2.0.0
+      hast-util-from-html: 2.0.3
+      satteri: 0.9.5
+
+  '@astrojs/mdx@7.0.4(@astrojs/markdown-satteri@0.3.4)(astro@7.1.5(@astrojs/markdown-remark@7.2.2)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0))':
     dependencies:
       '@astrojs/internal-helpers': 0.10.1
       '@astrojs/markdown-remark': 7.2.1
       '@mdx-js/mdx': 3.1.1
       acorn: 8.18.0
-      astro: 7.1.4(@astrojs/markdown-remark@7.2.1)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0)
+      astro: 7.1.5(@astrojs/markdown-remark@7.2.2)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0)
       es-module-lexer: 2.3.1
       estree-util-visit: 2.0.0
       hast-util-to-html: 9.0.5
@@ -3041,17 +3091,17 @@ snapshots:
       stream-replace-string: 2.0.0
       zod: 4.4.3
 
-  '@astrojs/starlight@0.41.5(@astrojs/markdown-remark@7.2.1)(astro@7.1.4(@astrojs/markdown-remark@7.2.1)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0))(typescript@6.0.3)':
+  '@astrojs/starlight@0.41.5(@astrojs/markdown-remark@7.2.2)(astro@7.1.5(@astrojs/markdown-remark@7.2.2)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0))(typescript@6.0.3)':
     dependencies:
       '@astrojs/markdown-satteri': 0.3.4
-      '@astrojs/mdx': 7.0.4(@astrojs/markdown-satteri@0.3.4)(astro@7.1.4(@astrojs/markdown-remark@7.2.1)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0))
+      '@astrojs/mdx': 7.0.4(@astrojs/markdown-satteri@0.3.4)(astro@7.1.5(@astrojs/markdown-remark@7.2.2)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0))
       '@astrojs/sitemap': 3.7.3
       '@pagefind/default-ui': 1.5.2
       '@types/hast': 3.0.5
       '@types/js-yaml': 4.0.9
       '@types/mdast': 4.0.4
-      astro: 7.1.4(@astrojs/markdown-remark@7.2.1)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0)
-      astro-expressive-code: 0.44.1(astro@7.1.4(@astrojs/markdown-remark@7.2.1)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0))
+      astro: 7.1.5(@astrojs/markdown-remark@7.2.2)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0)
+      astro-expressive-code: 0.44.1(astro@7.1.5(@astrojs/markdown-remark@7.2.2)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0))
       bcp-47: 2.1.1
       hast-util-from-html: 2.0.3
       hast-util-select: 6.0.4
@@ -3074,7 +3124,7 @@ snapshots:
       unist-util-visit: 5.1.0
       vfile: 6.0.3
     optionalDependencies:
-      '@astrojs/markdown-remark': 7.2.1
+      '@astrojs/markdown-remark': 7.2.2
     transitivePeerDependencies:
       - supports-color
       - typescript
@@ -4079,17 +4129,17 @@ snapshots:
       - '@emnapi/runtime'
       - supports-color
 
-  astro-expressive-code@0.44.1(astro@7.1.4(@astrojs/markdown-remark@7.2.1)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0)):
+  astro-expressive-code@0.44.1(astro@7.1.5(@astrojs/markdown-remark@7.2.2)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0)):
     dependencies:
-      astro: 7.1.4(@astrojs/markdown-remark@7.2.1)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0)
+      astro: 7.1.5(@astrojs/markdown-remark@7.2.2)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0)
       rehype-expressive-code: 0.44.1
       url-extras: 0.1.0
 
-  astro@7.1.4(@astrojs/markdown-remark@7.2.1)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0):
+  astro@7.1.5(@astrojs/markdown-remark@7.2.2)(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(rollup@4.62.0):
     dependencies:
       '@astrojs/compiler-rs': 0.3.1(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)
-      '@astrojs/internal-helpers': 0.10.1
-      '@astrojs/markdown-satteri': 0.3.4
+      '@astrojs/internal-helpers': 0.10.2
+      '@astrojs/markdown-satteri': 0.3.5
       '@astrojs/telemetry': 3.3.3
       '@capsizecss/unpack': 4.0.1
       '@clack/prompts': 1.7.0
@@ -4141,7 +4191,7 @@ snapshots:
       yargs-parser: 22.0.0
       zod: 4.4.3
     optionalDependencies:
-      '@astrojs/markdown-remark': 7.2.1
+      '@astrojs/markdown-remark': 7.2.2
       sharp: 0.35.3(@types/node@26.1.2)
     transitivePeerDependencies:
       - '@azure/app-configuration'
@@ -4653,7 +4703,7 @@ snapshots:
       defu: 6.1.7
       destr: 2.0.5
       iron-webcrypto: 1.2.1
-      node-mock-http: 1.0.4
+      node-mock-http: 1.0.5
       radix3: 1.1.2
       ufo: 1.6.4
       uncrypto: 0.1.3
@@ -5511,7 +5561,7 @@ snapshots:
 
   node-fetch-native@1.6.7: {}
 
-  node-mock-http@1.0.4: {}
+  node-mock-http@1.0.5: {}
 
   normalize-path@3.0.0: {}
 
