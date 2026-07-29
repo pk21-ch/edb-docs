@@ -148,7 +148,11 @@ Bei der fragmentierten Variante werden lediglich der **Start- und Endtermin** 
 
 In diesem Feld können Bemerkungen wie beispielsweise Einschränkungen in der Verfügbarkeit bei Teilzeit-Pensum vermerkt werden.
 
-**Grober Soll-Zeitplan / IPA Tage**
+### Einschätzung
+
+Eine Einschätzung der Aufgabenstellung durch die VF ist ein essenzieller Bestandteil für die Validierung.
+
+**Grober Soll-Zeitplan**
 
 Die vorgesetzte Fachkraft erfasst hier eine Zeitschätzung, die eine Stückelung von halben, ganzen Tagen oder anderen ähnlichen sinnvollen Einheiten aufweist. Die Arbeitspakete enthalten die erwarteten Arbeitsschritte und zeigen die Abhängigkeiten auf. Die detaillierte Zeitplanung ist Aufgabe der KAND während der IPA. In der Praxis kann die Zeit von der Planung abweichen. Der grobe Soll-Zeitplan dient lediglich dem Valid-Team zur Einschätzung, ob der Umfang der IPA-Aufgabenstellung realistisch ist.
 
@@ -202,7 +206,7 @@ Im Arbeitsjournal nicht deklarierte Fremdleistung, Vorleistung sowie Hilfestellu
 
 ### Besuche
 
-Die KAND koordinieren selbstständig die Termine der Besuche mit den PEX und weiteren relevanten Personen zu einem passenden Zeitpunkt. Die Art und Form der Besuche (z. B. Meeting, Workshop, StandUp, Weekly, etc.) wird durch die KAND in Absprache mit den PEX festgelegt.
+Die KAND koordinieren selbstständig die Termine der Besuche mit den HEX und weiteren relevanten Personen zu einem passenden Zeitpunkt. Die Art und Form der Besuche (z. B. Meeting, Workshop, StandUp, Weekly, etc.) wird durch die KAND in Absprache mit den HEX festgelegt.
 
 Die KAND und die PEX erfassen je ein Protokoll der Besuche. Die KAND legen das Protokoll im Arbeitsjournal ab. Die PEX tragen das Protokoll in PkOrg ein. Die Besuchstermine fliessen in die Bewertung der IPA ein.
 
