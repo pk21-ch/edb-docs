@@ -1,5 +1,11 @@
 # edb-docs
 
+## 0.0.5
+
+### Patch Changes
+
+- fe46951: Update dependencies and tune handbook
+
 ## 0.0.4
 
 ### Patch Changes
