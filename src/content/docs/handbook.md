@@ -220,7 +220,7 @@ Beim Erstbesuch werden folgende Punkte überprüft:
 - Durchsicht des bis dahin erstellten Arbeitsjournals
 - Fixierung des Termins für den Zwischenbesuch
 
-Darüber hinaus erfolgt eine **Bewertung bzw. Teilbewertung** der folgenden Kriterien:
+Darüber hinaus erfolgt eine **Bewertung bzw. Zwischenbewertung** der folgenden Kriterien:
 
 - A04 – Meetings / Workshops planen und moderieren
 - B01 – Projektplanung
