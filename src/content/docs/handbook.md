@@ -154,7 +154,7 @@ Die vorgesetzte Fachkraft erfasst hier eine Zeitschätzung, die eine Stückelung
 
 **Schätzung der Arbeitspakete**
 
-Für die Validierung ist es wichtig, dass die vorgesehenen Arbeitspakete durch die VF in **Stunden** geschätzt werden. Die Summe der Arbeitspakete muss 80 Stunden ergeben. Diese Schätzung darf nicht von den KAND vorgenommen oder bekannt gegeben werden. Sie kann nicht von den KAND eingesehen werden.
+Für die Validierung ist es wichtig, dass die vorgesehenen Arbeitspakete durch die VF in **Stunden** geschätzt werden. Die Summe der Arbeitspakete muss den vorgegebenen 80 Arbeitsstunden entsprechen (siehe Kapitel 2.4). Diese Schätzung wird ausschliesslich durch die VF vorgenommen und darf den KAND weder bekannt gegeben noch von ihnen eingesehen werden.
 
 ### Validierung
 
