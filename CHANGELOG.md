@@ -1,5 +1,11 @@
 # edb-docs
 
+## 0.0.6
+
+### Patch Changes
+
+- 4073eec: Tune handbook
+
 ## 0.0.5
 
 ### Patch Changes
