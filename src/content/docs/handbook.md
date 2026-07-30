@@ -36,9 +36,11 @@ Die Organisation der IPA wird durch die kantonale Prüfungskommission geregelt. 
 Die IPA im Beruf EDB wird in einer von zwei möglichen Durchführungsvarianten umgesetzt.
 
 **Variante 1: Kompakte Durchführung**
+
 Die IPA wird an 10 aufeinanderfolgenden Arbeitstagen durchgeführt. Unterbrüche entstehen nur durch Schule, Wochenende und Feiertage, nicht aber durch Ferien, Projektwochen, Blockunterricht oder andere Kurse. Die gesetzlichen Maximalarbeitszeiten dürfen nicht überschritten werden.
 
 **Variante 2: Fragmentierte Durchführung**
+
 Die IPA kann alternativ innerhalb eines Zeitraums von maximal 2 Monaten durchgeführt werden. In diesem Fall werden die insgesamt 10 Arbeitstage im Voraus geplant und können flexibel auf mehrere Einsätze verteilt werden (z. B. tageweise oder blockweise). Die konkrete Planung ist zu Beginn der IPA festzulegen und verbindlich einzuhalten. Die gesetzlichen Bestimmungen zu den Arbeits- und Ruhezeiten sind auch in dieser Variante einzuhalten.
 
 Unabhängig von der gewählten Variante gilt, dass die IPA-Aufgabe in 6 Tagen (netto) fertiggestellt werden können sollte. 4 Tage werden für die Dokumentation erwartet. Beide Durchführungsvarianten erfolgen in Startblöcken zwischen Februar und Mai.
@@ -59,7 +61,7 @@ Bis zum Start der IPA müssen die folgenden Schritte durchlaufen werden:
 
 ### IPA-Aufgabenstellung
 
-**In einem ersten Schritt überlegen sich die vorgesetzte Fachkraft gemeinsam mit der Kandidatin oder dem Kandidaten, welches Projekt oder welches Teilprojekt als IPA durchgeführt werden kann.** Die IPA soll die Fähigkeiten prüfen und daher so gewählt sein, dass sie den Stärken der Kandidatin oder des Kandidaten entsprechen. Dabei ist es wichtig, klar messbare und machbare Lieferobjekte zu fordern.
+**In einem ersten Schritt überlegt sich die vorgesetzte Fachkraft gemeinsam mit der Kandidatin oder dem Kandidaten, welches Projekt oder welches Teilprojekt als IPA durchgeführt werden kann.** Die IPA soll die Fähigkeiten prüfen und daher so gewählt sein, dass sie den Stärken der Kandidatin oder des Kandidaten entsprechen. Dabei ist es wichtig, klar messbare und machbare Lieferobjekte zu fordern.
 
 Die IPA ist in erster Linie eine **konzeptionelle, planerische und koordinative Arbeit**. Der Kandidat oder die Kandidatin verantwortet die Analyse, Strukturierung und Planung sowie die Definition von Schnittstellen zwischen Prozessen, Daten, Systemen und Beteiligten. Die eigentliche **Produktumsetzung oder technische Implementierung** ist in der Regel nicht Bestandteil der IPA.
 
@@ -98,17 +100,17 @@ In den geplanten 80 Stunden ist auch Zeit für Projektmanagement und Dokumentati
 
 Es müssen folgende Teile beschrieben werden:
 
-**Ausgangslage & Problemstellung**
+**Ausgangslage und Problemstellung**
 
 Mit der Beschreibung der Ausgangslage wird das gewünschte Projekt aufgezeigt. Es ist ersichtlich, in welchem Umfeld es durchgeführt wird. Eine Problemstellung soll erläutert werden.
 
 **Detaillierte Aufgabenstellung**
 
-Der Block «Detaillierte Aufgabenstellung» ist das Kernstück der Beschreibung. In die detaillierte Aufgabenstellung gehören folgende Informationen: konkrete Lieferobjekte, grobe Aufgabenpakete mit zugeordneten HKB und messbare Formatvorgaben (z. B. Umfang, Struktur, Medien, Form, Zugänglichkeit, etc.). Je klarer dieser Text formuliert ist, umso schneller geht die Validierung. Der Detaillierungsgrad soll einem Briefing an einen externen Dienstleister/Agentur entsprechen, die die Firma nicht kennen und muss von einer externen Fachperson bewertbar sein. Anhand der Definition der Lieferobjekte wird die Arbeit von der VF und den PEX bewertet. Besonderes Augenmerk ist auf die Messbarkeit der Ziele zu legen.
+Der Block «Detaillierte Aufgabenstellung» ist das Kernstück der Beschreibung. In die detaillierte Aufgabenstellung gehören folgende Informationen: konkrete Lieferobjekte, grobe Aufgabenpakete und messbare Formatvorgaben (z. B. Umfang, Struktur, Medien, Form, Zugänglichkeit, etc.). Je klarer dieser Text formuliert ist, umso schneller geht die Validierung. Der Detaillierungsgrad soll einem Briefing an einen externen Dienstleister/Agentur entsprechen, die die Firma nicht kennen und muss von einer externen Fachperson bewertbar sein. Anhand der Definition der Lieferobjekte wird die Arbeit von der VF und den PEX bewertet. Besonderes Augenmerk ist auf die Messbarkeit der Ziele zu legen.
 
 **Wahl- und individuelle Beurteilungskriterien**
 
-Für die IPA sind **zwei Wahlkriterien**aus dem Katalog auszuwählen, welche individuell, aber nur minimal anpassbar sind. Titel und Sinn dürfen nicht verändert werden. Diese Wahl erfolgt unabhängig von der Zugehörigkeit zu den Handlungs- und Kompetenzbereichen (HKB) und dient der gezielten Spezifizierung der Aufgabenstellung aus dem Detailbeschrieb.
+Für die IPA sind **zwei Wahlkriterien** aus dem Katalog auszuwählen, welche individuell, aber nur minimal anpassbar sind. Titel und Sinn dürfen nicht verändert werden. Diese Wahl erfolgt unabhängig von der Zugehörigkeit zu den Handlungs- und Kompetenzbereichen (HKB) und dient der gezielten Spezifizierung der Aufgabenstellung aus dem Detailbeschrieb.
 
 Zusätzlich sind **zwei individuelle Beurteilungskriterien** zu beschreiben. Die Kriterien werden eigenständig formuliert und erlauben die vertiefte und erweiterte Beurteilung eines Lieferobjektes aus der Aufgabenstellung.
 
@@ -148,34 +150,29 @@ Bei der fragmentierten Variante werden lediglich der **Start- und Endtermin** 
 
 In diesem Feld können Bemerkungen wie beispielsweise Einschränkungen in der Verfügbarkeit bei Teilzeit-Pensum vermerkt werden.
 
-### Einschätzung
-
-Eine Einschätzung der Aufgabenstellung durch die VF ist ein essenzieller Bestandteil für die Validierung.
-
 **Grober Soll-Zeitplan**
 
-Die vorgesetzte Fachkraft erfasst hier eine Zeitschätzung, die eine Stückelung von halben, ganzen Tagen oder anderen ähnlichen sinnvollen Einheiten aufweist. Die Arbeitspakete enthalten die erwarteten Arbeitsschritte und zeigen die Abhängigkeiten auf. Die detaillierte Zeitplanung ist Aufgabe der KAND während der IPA. In der Praxis kann die Zeit von der Planung abweichen. Der grobe Soll-Zeitplan dient lediglich dem Valid-Team zur Einschätzung, ob der Umfang der IPA-Aufgabenstellung realistisch ist.
+Die vorgesetzte Fachkraft erstellt einen groben Soll-Zeitplan, indem sie die vorgesehenen Arbeitspakete auflistet und je in **Stunden schätzt**. Die Arbeitspakete enthalten die erwarteten Arbeitsschritte und zeigen die Abhängigkeiten auf. Die Summe der geschätzten Stunden muss den vorgegebenen 80 Arbeitsstunden entsprechen (siehe Kapitel 2.4).
 
-**Schätzung der Arbeitspakete**
-
-Für die Validierung ist es wichtig, dass die vorgesehenen Arbeitspakete durch die VF in **Stunden** geschätzt werden. Die Summe der Arbeitspakete muss den vorgegebenen 80 Arbeitsstunden entsprechen (siehe Kapitel 2.4). Diese Schätzung wird ausschliesslich durch die VF vorgenommen und darf den KAND weder bekannt gegeben noch von ihnen eingesehen werden.
+Die detaillierte Zeitplanung bleibt Aufgabe der KAND während der IPA und kann in der Praxis vom Soll-Zeitplan abweichen. Dieser dient dem Valid-Team ausschliesslich zur Einschätzung, ob der Umfang der IPA-Aufgabenstellung realistisch ist.
+Der Soll-Zeitplan wird ausschliesslich durch die VF erstellt und darf den KAND weder bekannt gegeben noch von ihnen eingesehen werden.
 
 ### Validierung
 
-Damit alle KAND in ähnlichen Schwierigkeitsstufen unterwegs sind, die Lieferobjekte erreichbar sind und somit alle eine (möglichst) gleiche Ausgangslage erhalten, wird die eingereichte Aufgabenstellung validiert. In diesem Schritt prüft ein Validexperte oder eine Validexpertin, ob die Aufgabenstellung den Anforderungen und dem Schwierigkeitsgrad einer IPA entspricht.
+Damit alle KAND in ähnlichen Schwierigkeitsstufen unterwegs sind, die Lieferobjekte erreichbar sind und somit alle eine (möglichst) gleiche Ausgangslage erhalten, wird die eingereichte Aufgabenstellung validiert. In diesem Schritt prüft ein Validexperte oder eine Validexpertin (VEX), ob die Aufgabenstellung den Anforderungen und dem Schwierigkeitsgrad einer IPA entspricht.
 
 Das Valid-Team achtet insbesondere darauf, dass:
 
-– klare Lieferobjekte definiert sind (Was ist das Endergebnis der IPA?)
-– die Aufgabe stufengerecht ist (nicht zu einfach, nicht zu schwer)
-– die Aufgabe in rund 6 Arbeitstagen lösbar ist
-– keine Bonus-Arbeiten aufgeführt werden (optional kann noch)
-– die Kandidatin oder der Kandidat die nötigen Vorkenntnisse mitbringt
-– das Erfüllen der Lieferobjekte objektiv bewertbar ist
+- klare Lieferobjekte definiert sind (Was ist das Endergebnis der IPA?)
+- die Aufgabe stufengerecht ist (nicht zu einfach, nicht zu schwer)
+- die Aufgabe in rund 6 Arbeitstagen lösbar ist
+- keine Bonus-Arbeiten aufgeführt werden (optional kann noch)
+- die Kandidatin oder der Kandidat die nötigen Vorkenntnisse mitbringt
+- das Erfüllen der Lieferobjekte objektiv bewertbar ist
 
 **Das Valid-Team ist auf konstruktive Mitarbeit und das Einhalten der Abgabefristen angewiesen, damit der Start der IPA nicht gefährdet wird.** Wir schätzen es zudem, wenn die detaillierte Aufgabenstellung in logische Abschnitte strukturiert und für externe Personen verständlich formuliert wird (interne Begrifflichkeiten vermeiden oder erklären).
 
-Mit der IPA darf erst nach der formellen Freigabe (Nachricht durch Validexpertin oder Validexperte) und erst am deklarierten Starttermin begonnen werden. Ziel ist es, die detaillierte Aufgabenstellung **spätestens 3 Tage vor Start der IPA freigeben** zu können. Zieht sich die Validierung durch mangelnde Mitarbeit zu lange hin, kann dies eine Verschiebung der IPA zur Folge haben.
+Mit der IPA darf erst nach der formellen Freigabe (Nachricht durch VEX) und erst am deklarierten Starttermin begonnen werden. Ziel ist es, die detaillierte Aufgabenstellung **spätestens 3 Tage vor Start der IPA freigeben** zu können. Zieht sich die Validierung durch mangelnde Mitarbeit zu lange hin, kann dies eine Verschiebung der IPA zur Folge haben.
 
 
 ## Durchführung
@@ -190,7 +187,7 @@ Die Prüfungsexpertinnen und Prüfungsexperten dürfen keine eigenen Kriterien h
 
 ### Unregelmässigkeiten, Überstunden und Krankheit
 
-KAND oder VF können Unregelmässigkeiten oder Probleme direkt bei der Hauptexpertin oder dem Hauptexperten ansprechen oder **im Vertrauen den Chefexperten kontaktieren**. Der Chefexperte wird geeignete Massnahmen absprechen und anordnen. Meldungen werden vertraulich behandelt und haben somit keinen Einfluss auf die Notengebung.
+KAND oder VF können Unregelmässigkeiten oder Probleme direkt bei der Hauptexpertin oder dem Hauptexperten (HEX) ansprechen oder **im Vertrauen den Chefexperten (CEX) kontaktieren**. Der CEX wird geeignete Massnahmen absprechen und anordnen. Meldungen werden vertraulich behandelt und haben somit keinen Einfluss auf die Notengebung.
 
 Überstunden sind im Rahmen der gesetzlichen Maximalarbeitszeiten erlaubt, müssen aber im Arbeitsjournal und im Zeitplan ausgewiesen werden. **Der vorgegebene Umfang der IPA von 70 bis 90 Stunden darf nicht unter- oder überschritten werden**.
 
@@ -208,7 +205,7 @@ Im Arbeitsjournal nicht deklarierte Fremdleistung, Vorleistung sowie Hilfestellu
 
 Die KAND koordinieren selbstständig die Termine der Besuche mit den HEX und weiteren relevanten Personen zu einem passenden Zeitpunkt. Die Art und Form der Besuche (z. B. Meeting, Workshop, StandUp, Weekly, etc.) wird durch die KAND in Absprache mit den HEX festgelegt.
 
-Die KAND und die PEX erfassen je ein Protokoll der Besuche. Die KAND legen das Protokoll im Arbeitsjournal ab. Die PEX tragen das Protokoll in PkOrg ein. Die Besuchstermine fliessen in die Bewertung der IPA ein.
+Die KAND und der Hauptexperte oder die Hauptexpertin erfassen je ein Protokoll der Besuche. Die HEX tragen das Protokoll in PkOrg ein. Die Besuchstermine fliessen in die Bewertung der IPA ein.
 
 #### Erstbesuch
 
@@ -235,7 +232,7 @@ Erwartet wird eine grobe Planung der IPA-Tage sowie die dokumentierte Wahl einer
 
 #### Zwischenbesuch
 
-Der Zwischenbesuch dient der Überprüfung des Arbeitsvorgehens und der Bewertung relevanter Kriterien. Dieser kann nach Absprache mit dem HEX, auch Online durchgeführt werden.
+Der Zwischenbesuch dient der Überprüfung des Arbeitsvorgehens und der Bewertung relevanter Kriterien. Dieser kann nach Absprache mit den HEX, auch online durchgeführt werden.
 
 Es wird empfohlen, den Zwischenbesuch **bis spätestens am Tag 9** durchzuführen. Die Hauptexpertin bzw. der Hauptexperte beurteilt beim Erstbesuch die Eignung des gewählten Termins und nimmt bei Bedarf Anpassungen vor.
 
@@ -254,6 +251,7 @@ Es erfolgt eine **Bewertung** der folgenden Kriterien:
 - **B03** Aufgabenverwaltung
 
 **Hinweis zu B03 und Prototypenarbeiten:**
+
 Bei komplexen Aufgaben wie Prototyping, Nutzertests oder A/B-Testing ist eine sorgfältige Planung und Terminierung entscheidend. Die Kandidatin oder der Kandidat muss die einzelnen Arbeitsschritte, Termine und Verantwortlichkeiten klar festlegen und dokumentieren. Eine strukturierte Vorgehensweise stellt sicher, dass alle Aufgaben innerhalb des vorgesehenen Durchführungszeitraums effizient und nachvollziehbar umgesetzt werden können.
 
 B03 bedeutet nicht, dass nach dem Zwischenbesuch keine aktive Arbeit mehr erforderlich ist; der Fortschritt wird in den Kriterien B02 und B05 weiterhin bewertet. Im Zwischenbesuch ist insbesondere der Status der Arbeiten zu aktualisieren und dokumentiert nachzuweisen.
@@ -316,12 +314,14 @@ Die **Eigenständigkeitserklärung** muss zwingend folgende Elemente enthalten:
 - Es wurden ausschliesslich die angegebenen Quellen und Hilfsmittel verwendet.
 
 **Definition Stakeholder**
+
 Für die IPA im Beruf EDB wird eine strukturierte Betrachtung der relevanten Stakeholder erwartet. Es müssen nicht alle möglichen Anspruchsgruppen aufgelistet werden, sondern der Fokus liegt auf den für das Projekt wesentlichen internen und externen Stakeholdern.
 
 - **Interne Stakeholder:** IT-Abteilung, Design, interne Kundinnen und Kunden, vorgesetzte Stellen.
 - **Externe Stakeholder:** Kundinnen und Kunden, Lieferant\*innen, staatliche Stellen oder rechtliche Rahmenbedingungen.
 
 **Definition Tools und Methoden (A02 – Ideenfindung und Variantenentwicklung)**
+
 Im Kriterium A02 wird bewertet, wie Tools und Methoden bei der Ideenfindung eingesetzt und begründet werden. Die Auswahl und Anwendung müssen nachvollziehbar und projektbezogen dargestellt werden.
 
 - Es wird erwartet, dass mehrere Lösungsansätze systematisch erarbeitet werden.
@@ -329,6 +329,7 @@ Im Kriterium A02 wird bewertet, wie Tools und Methoden bei der Ideenfindung eing
 - Die Auswahl oder Verwerfung von Ideen muss nachvollziehbar begründet sein.
 
 **Risikoanalyse**
+
 Nur Risiken, die den Projektverlauf, die Zielerreichung oder die Qualität der Lösung beeinflussen könnten, sind zu berücksichtigen.
 
 - Für jedes Risiko sind **Eintrittswahrscheinlichkeit** und **Auswirkung** nachvollziehbar einzuschätzen.
@@ -337,6 +338,7 @@ Nur Risiken, die den Projektverlauf, die Zielerreichung oder die Qualität der L
 - Die Risikoanalyse sollte frühzeitig erstellt werden, kann jedoch im Verlauf der IPA angepasst werden, wenn neue Risiken auftreten. Umsetzung und Beobachtung der Risiken sind im **Arbeitsjournal** und im Zeitplan zu dokumentieren.
 
 **Datenschutz (C04)**
+
 Im Kriterium C04 wird erwartet, dass Datenschutzanforderungen erkannt, berücksichtigt und umgesetzt werden.
 
 - Es ist nicht erforderlich, rechtliche Grundlagen ausführlich zu beschreiben.
@@ -353,7 +355,7 @@ Alle IPA-Dokumente müssen digital auf [PkOrg](https://www.pkorg.ch/de) hochgela
 
 ### Präsentation
 
-Die IPA wird 1 bis 2 Wochen nach der Abgabe dem Expertenteam und der verantwortlichen Fachkraft präsentiert. Weitere Gäste (Berufsbildner/in und Fachspezialisten, welche zur IPA beigetragen haben) sind grundsätzlich nicht zulässig und dürfen nur in begründeten Fällen auf Antrag beim Chefexperten teilnehmen.
+Die IPA wird dem Expertenteam und der verantwortlichen Fachkraft 1 bis 2 Wochen nach der Abgabe präsentiert. Weitere Gäste (Berufsbildner/in und Fachspezialisten, welche zur IPA beigetragen haben) sind grundsätzlich nicht zulässig und dürfen nur in begründeten Fällen auf Antrag beim Chefexperten teilnehmen.
 
 Der Termin und Zeitpunkt für die Präsentation wird vom Hauptexperten oder der Hauptexpertin eruiert. Dabei werden, wenn möglich, die Terminwünsche vom Betrieb berücksichtigt. Die Präsentation findet im Normalfall im Betrieb statt. Die IPA-Ergebnisse müssen zwingend in der Version gezeigt werden, welche abgegeben wurde.
 
@@ -381,13 +383,14 @@ Während der IPA soll ein Beobachtungsprotokoll von der vorgesetzten Fachkraft g
 
 Die Bewertung der IPA unterscheidet **zwischen dem Arbeitsvorgehen während der Durchführungszeit** und **dem Endprodukt** der IPA.
 
-**1. Bewertung des Arbeitsvorgehens**
+**Bewertung des Arbeitsvorgehens**
+
 Das Arbeitsvorgehen wird durch das Expertenteam an definierten Meilensteinen beurteilt:
 
 - **Erstbesuch:** Bewertungsempfehlung durch die vorgesetzte Fachkraft (VF) und den Hauptexperten bzw. die Hauptexpertin (HEX) für die Kriterien **A04 – Meetings/Workshops planen und moderieren** und **B01 – Projektplanung**.
 - **Zwischenbesuch:** Bewertungsempfehlung durch VF und HEX für die Kriterien **A01 – Bedürfniserhebung, A02 – Ideenfindung und Variantenentwicklung, A03 – Innovations- und Transferfähigkeit, B03 – Aufgabenverwaltung** und erneut **A04 – Meetings/Workshops planen und moderieren**.
 
-Die Bewertungsempfehlungen werden nach dem Fachgespräch zusammen mit dem Nebenexperten (NEX) finalisiert, sodass das gesetzliche **4-Augen-Prinzip** gewährleistet ist.
+Die Bewertungsempfehlungen werden nach dem Fachgespräch zusammen mit dem Nebenexperten oder der Nebenexpertin (NEX) finalisiert, sodass das gesetzliche **4-Augen-Prinzip** gewährleistet ist.
 
 Zwischen der Abgabe der IPA und der Präsentation sowie dem Fachgespräch studieren die vorgesetzte Fachkraft und der Hauptexperte oder die Hauptexpertin die abgegebenen Ergebnisse. Die VF bewertet die IPA innerhalb von 7 Arbeitstagen in PkOrg und begründet die Beurteilung. Längere Abgabefristen sind je nach Terminplanung in Absprache mit der Hauptexpertin oder dem Hauptexperten möglich.
 
