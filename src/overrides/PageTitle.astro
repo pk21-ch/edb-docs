@@ -6,18 +6,16 @@ const { entry } = Astro.locals.starlightRoute;
 const chapterOrder = getChapterOrder(Astro.locals.starlightRoute);
 ---
 
-{
-  chapterOrder !== undefined ? (
-    <h1 id="_top">
-      <span class="sl-chapter-prefix">{chapterOrder}.</span>
-      {entry.data.title}
-    </h1>
-  ) : (
-    <Default>
-      <slot />
-    </Default>
-  )
-}
+{chapterOrder !== undefined ? (
+  <h1 id="_top">
+    <span class="sl-chapter-prefix">{chapterOrder}.</span>
+    {entry.data.title}
+  </h1>
+) : (
+  <Default>
+    <slot />
+  </Default>
+)}
 
 <style>
   @layer starlight.core {

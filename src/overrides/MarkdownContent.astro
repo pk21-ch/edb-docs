@@ -5,16 +5,14 @@ import { getChapterOrder } from "../utils/chapter";
 const chapterOrder = getChapterOrder(Astro.locals.starlightRoute);
 ---
 
-{
-  chapterOrder !== undefined ? (
-    <div data-chapter-number={String(chapterOrder)} style={`counter-reset:sl-chapter ${chapterOrder}`}>
-      <Default>
-        <slot />
-      </Default>
-    </div>
-  ) : (
+{chapterOrder !== undefined ? (
+  <div data-chapter-number={String(chapterOrder)} style={`counter-reset:sl-chapter ${chapterOrder}`}>
     <Default>
       <slot />
     </Default>
-  )
-}
+  </div>
+) : (
+  <Default>
+    <slot />
+  </Default>
+)}
