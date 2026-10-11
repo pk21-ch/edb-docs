@@ -1,5 +1,11 @@
 # edb-docs
 
+## 0.0.7
+
+### Patch Changes
+
+- 482c076: Add infos to langing page
+
 ## 0.0.6
 
 ### Patch Changes
