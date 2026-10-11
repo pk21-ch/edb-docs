@@ -13,7 +13,7 @@ export default defineConfig({
   },
   integrations: [
     starlight({
-      title: "PK21 EDB Dokumentation",
+      title: "PK21 EDB",
       locales: { root: { label: "Deutsch", lang: "de-CH" } },
       social: [
         {
@@ -32,7 +32,11 @@ export default defineConfig({
       sidebar: [
         { label: "Handbuch", slug: "handbook", attrs: { "data-numbered-page": true } },
         {
-          label: "Weitere Dokumente",
+          label: "Prüflisten",
+          items: [{ autogenerate: { directory: "checklists" } }],
+        },
+        {
+          label: "Dokumente",
           items: [{ autogenerate: { directory: "documents" } }],
         },
       ],

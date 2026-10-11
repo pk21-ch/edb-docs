@@ -1,0 +1,87 @@
+---
+import { Image } from "astro:assets";
+import portrait from "../assets/robin-buehler-480x480.jpg";
+---
+
+<div class="contact-card">
+  <Image src={portrait} alt="Robin Bühler" width={236} height={236} class="contact-photo" />
+  <div class="contact-details">
+    <p class="contact-name">
+      <strong>Robin Bühler</strong>
+    </p>
+    <p>Chefexperte EDB, Vizepräsident</p>
+    <address>
+      <a href="mailto:robin.buehler@pk21.ch">robin.buehler@pk21.ch</a>
+      <a href="tel:+41445200699">044 520 06 99</a>
+    </address>
+  </div>
+</div>
+
+<style>
+  .contact-card {
+    display: flex;
+    background-color: var(--sl-color-gray-6);
+    color: var(--sl-color-gray-2);
+  }
+
+  :global([data-theme="light"]) .contact-card {
+    background-color: #f7f7f7;
+    color: #666666;
+  }
+
+  .contact-card .contact-photo {
+    flex: 0 0 14.75rem;
+    width: 14.75rem;
+    height: 14.75rem;
+    margin: 0;
+    object-fit: cover;
+  }
+
+  .contact-card .contact-details {
+    min-width: 0;
+    margin: 0;
+    padding: 2rem 2.5rem;
+    line-height: 1.5;
+  }
+
+  .contact-details > p {
+    margin: 0;
+  }
+
+  .contact-details .contact-name {
+    font-size: 1.75rem;
+    line-height: 1.2;
+  }
+
+  .contact-details address {
+    margin-top: 1rem;
+    font-style: normal;
+  }
+
+  .contact-details address a {
+    display: block;
+    width: fit-content;
+    margin: 0;
+    color: inherit;
+    overflow-wrap: anywhere;
+    text-decoration-color: var(--sl-color-accent);
+    text-underline-offset: 0.2em;
+  }
+
+  @media (max-width: 40rem) {
+    .contact-card {
+      flex-direction: column;
+    }
+
+    .contact-card .contact-photo {
+      flex-basis: auto;
+      max-width: 100%;
+      height: auto;
+      aspect-ratio: 1;
+    }
+
+    .contact-card .contact-details {
+      padding: 1.5rem;
+    }
+  }
+</style>
