@@ -1,5 +1,13 @@
 # edb-docs
 
+## 0.0.8
+
+### Patch Changes
+
+- e8b7397: Add VF checklist.
+- 40030bb: Add NEX checklist.
+- 4d766c7: Add HEX checklist.
+
 ## 0.0.7
 
 ### Patch Changes
