@@ -1,5 +1,11 @@
 # edb-docs
 
+## 0.0.9
+
+### Patch Changes
+
+- e6d8397: Remove landing page infos.
+
 ## 0.0.8
 
 ### Patch Changes

@@ -2,7 +2,7 @@
   "name": "edb-docs",
   "type": "module",
   "private": true,
-  "version": "0.0.8",
+  "version": "0.0.9",
   "packageManager": "pnpm@12.11.2",
   "scripts": {
     "dev": "astro dev --host",
