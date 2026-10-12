@@ -3,7 +3,7 @@ title: Prüfliste für Hauptexperten
 description: Prüfliste für Hauptexperten.
 ---
 
-## Vorbereitungsphase
+## Vorbereitung
 
 Während der Vorbereitungsphase wird die Aufgabenbeschreibung vom Validierungsexperten betreut. Er ist in Kontakt mit dem Kandidaten, der verantwortlichen Fachkraft und dem Berufsbildner.
 
