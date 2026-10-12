@@ -19,7 +19,7 @@ export default defineConfig({
         {
           icon: "github",
           label: "GitHub",
-          href: "https://github.com/pk21/edb-docs",
+          href: "https://github.com/pk21",
         },
       ],
       routeMiddleware: "./src/utils/routeData.ts",
@@ -33,11 +33,15 @@ export default defineConfig({
         { label: "Handbuch", slug: "handbook", attrs: { "data-numbered-page": true } },
         {
           label: "Prüflisten",
-          items: [{ autogenerate: { directory: "checklists" } }],
+          items: [
+            { label: "Hauptexperte/in", slug: "checklists/hex" },
+            { label: "Nebenexperte/in", slug: "checklists/nex" },
+            { label: "Verantwortliche Fachkraft", slug: "checklists/vf" },
+          ],
         },
         {
           label: "Dokumente",
-          items: [{ autogenerate: { directory: "documents" } }],
+          items: [{ label: "IPA in English", slug: "documents/ipa-in-english", badge: "EN" }],
         },
       ],
     }),
