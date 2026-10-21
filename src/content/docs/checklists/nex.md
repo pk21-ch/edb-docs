@@ -70,5 +70,6 @@ Die Prüfungsleitung ist dir dankbar, wenn du die folgenden Arbeiten umgehend er
 31. **Digitalisierung:** Scanne nicht digitale IPA-Unterlagen ein und lade sie bei der IPA im Dokumentenpool auf PkOrg hoch, sodass sie für die Prüfungsleitung ersichtlich sind.
 32. **Rückfragen:** Sei am Tag der Notenklausur für Rückfragen erreichbar und trage den Termin in deine Agenda ein.
 33. **Schweigepflicht:** Beachte deine Schweigepflicht. Ausserhalb des Bewertungsverfahrens darf weder über den Inhalt der IPA noch über die Bewertung gesprochen werden. Die Rechte am Resultat der IPA gehören der Lehr-/Praktikumsfirma.
+34. **Abrechnung:** Sind alle Arbeiten zu IPA auf PkOrg abgeschlossen, die notwendigen Signaturen gemacht und deine Dokumente hochgeladen? Dann rechne deine Aufwände auf PkOrg ab.
 
 Abschliessend gebührt dir ein herzliches Dankeschön. Es ist nicht selbstverständlich, dass du die Arbeit als Prüfungsexpertin oder Prüfungsexperte übernimmst.
