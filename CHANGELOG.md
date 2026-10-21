@@ -1,5 +1,11 @@
 # edb-docs
 
+## 0.0.10
+
+### Patch Changes
+
+- 4a9341f: Update checklists.
+
 ## 0.0.9
 
 ### Patch Changes
