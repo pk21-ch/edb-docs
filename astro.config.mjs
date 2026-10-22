@@ -39,10 +39,6 @@ export default defineConfig({
             { label: "Verantwortliche Fachkraft", slug: "checklists/vf" },
           ],
         },
-        {
-          label: "Dokumente",
-          items: [{ label: "IPA in English", slug: "documents/ipa-in-english", badge: "EN" }],
-        },
       ],
     }),
   ],
