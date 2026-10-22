@@ -1,5 +1,11 @@
 # edb-docs
 
+## 0.0.11
+
+### Patch Changes
+
+- 7346930: Tune checklists.
+
 ## 0.0.10
 
 ### Patch Changes
