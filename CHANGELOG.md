@@ -1,5 +1,11 @@
 # edb-docs
 
+## 0.0.12
+
+### Patch Changes
+
+- a004f03: Gender neutral language
+
 ## 0.0.11
 
 ### Patch Changes
